@@ -19,6 +19,18 @@ body {
     padding: 20px;
 }
 
+.about,
+.about * {
+  box-sizing: border-box;
+}
+.about {
+  background: #d9d9d9;
+  border-radius: 50px;
+  width: 211px;
+  height: 56px;
+  position: relative;
+}
+
 .header {
     background-color: #333333;
     padding: 10px 0;
